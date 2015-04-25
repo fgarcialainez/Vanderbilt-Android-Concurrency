@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="download_button_label">Download Image</string>
+    
+    <string name="invalid_url_message">Please enter a valid url</string>
+    <string name="error_downloading_image_message">Error downloading image</string>
+    <string name="error_filtering_image_message">Error filtering image</string>
+    
+    <string name="default_image_url">http://tinyurl.com/kgscp4y</string>
+</resources>
